@@ -1,0 +1,10 @@
+2022-07-13 17:05:36,528 - Sorting_Algo.py:[21] - [INFO] - Iterables added to list and sorted<generator object Algo.merge1 at 0x000001D7AA658200>
+2022-07-13 17:09:52,562 - Sorting_Algo.py:[21] - [INFO] - Iterables added to list and sorted<generator object Algo.merge1 at 0x000001BF6371F920>
+2022-07-13 17:10:29,169 - Sorting_Algo.py:[21] - [INFO] - Iterables added to list and sorted<generator object Algo.merge1 at 0x0000020970887610>
+2022-07-13 17:14:24,732 - Sorting_Algo.py:[21] - [INFO] - Iterables added to list and sorted<generator object Algo.merge1 at 0x000001B59C76F610>
+2022-07-13 17:16:44,322 - Sorting_Algo.py:[21] - [INFO] - Iterables added to list and sorted<generator object Algo.merge1 at 0x000002227F68B610>
+2022-07-13 17:16:44,322 - Sorting_Algo.py:[44] - [INFO] - Merged all the list are sorted and merged<generator object Algo.merge at 0x000002227F68B610>
+2022-07-13 17:25:30,847 - Sorting_Algo.py:[21] - [INFO] - Iterables added to list and sorted<generator object Algo.merge1 at 0x00000256C43AB610>
+2022-07-13 17:25:30,847 - Sorting_Algo.py:[44] - [INFO] - Merged all the list are sorted and merged<generator object Algo.merge at 0x00000256C43AB610>
+2022-07-13 17:27:16,712 - Sorting_Algo.py:[21] - [INFO] - Iterables added to list and sorted<generator object Algo.merge1 at 0x00000240A579F610>
+2022-07-13 17:27:16,712 - Sorting_Algo.py:[44] - [INFO] - Merged the lists provided and sorted them all<generator object Algo.merge at 0x00000240A579F610>
